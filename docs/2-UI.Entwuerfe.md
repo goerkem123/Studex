@@ -1,0 +1,5 @@
+# UI-Entwürfe (Skizzen)
+
+Unsere vorläufigen UI-Entwürfe und der App-Flow sind auf dem folgenden Miro-Board zu finden:
+
+https://miro.com/welcomeonboard/REt5K0xGeDMwR1dKU0NsT1JQd01XN2Q0d1JyRytqVkU0eHcxQTFmSndnNTlJQ2FxeE1QUkFKSTBhUGV4N1JQaEYwaG9CM214ZVFvTlNFUXVWYzhwTUp6cjh6c3UwN3EzSHdsQzNKTmszdm9YRm43T0w4RGFIVVhMampjOHVLbUp0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=216513025721
